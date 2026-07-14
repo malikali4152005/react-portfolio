@@ -210,7 +210,7 @@ COMSATS University Islamabad, Wah Campus
 
 ### GitHub
 
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/malikali4152005
 
 ### LinkedIn
 
