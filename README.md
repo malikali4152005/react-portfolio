@@ -219,7 +219,7 @@ https://www.linkedin.com/in/malik-muhammad-ali-9bb349321
 ---
 ## Live Demo
 
-react-portfolio-ivory-six-38.vercel.app
+https://react-portfolio-ivory-six-38.vercel.app/#home
 
 ## ⭐ Support
 
